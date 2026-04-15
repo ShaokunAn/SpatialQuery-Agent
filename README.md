@@ -1,6 +1,6 @@
 # SpatialQuery-Agent
 
-A natural-language agent for spatial transcriptomics analysis powered by [SpatialQuery](https://github.com/ShengquanChen/SpatialQuery). Translates conversational requests into executable SpatialQuery API calls through template-based code generation — no free-form LLM code generation.
+A natural-language agent for spatial transcriptomics analysis powered by [SpatialQuery](https://github.com/ShaokunAn/Spatial-Query). Translates conversational requests into executable SpatialQuery API calls through template-based code generation — no free-form LLM code generation.
 
 ## Architecture
 
@@ -16,7 +16,7 @@ User Message → Route → Classify → Parse → Generate → Execute → Displ
 
 - Python 3.10+
 - [Ollama](https://ollama.ai/) with `qwen2.5-coder:7b` model
-- [SpatialQuery](https://github.com/ShengquanChen/SpatialQuery) package installed
+- [SpatialQuery](https://github.com/ShaokunAn/Spatial-Query) package installed
 
 ## Installation
 
@@ -28,7 +28,7 @@ cd SpatialQuery-Agent
 # 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. Install SpatialQuery (follow instructions at https://github.com/ShengquanChen/SpatialQuery)
+# 3. Install SpatialQuery (follow instructions at https://github.com/ShaokunAn/Spatial-Query)
 
 # 4. Pull the LLM model
 ollama pull qwen2.5-coder:7b
