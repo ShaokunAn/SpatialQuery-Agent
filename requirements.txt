@@ -1,0 +1,17 @@
+chainlit
+chromadb
+llama-index-core
+llama-index-vector-stores-chroma
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+anndata
+scanpy
+scipy
+numpy
+pandas
+scikit-learn
+mlxtend
+statsmodels
+seaborn
+matplotlib
+sentence-transformers

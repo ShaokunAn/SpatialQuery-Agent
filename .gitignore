@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# ChromaDB (regenerate with: python build_db.py)
+chroma_db/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Chainlit
+.chainlit/translations/
+
+# Claude Code
+.claude/
+
+# Pytest
+.pytest_cache/
+
+# Logs
+*.log
