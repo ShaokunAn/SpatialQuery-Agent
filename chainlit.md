@@ -4,7 +4,7 @@ Welcome! This agent helps you analyze spatial transcriptomics data using natural
 
 ## Getting Started
 
-1. **Load your data** — Type: `Load /path/to/your/data.h5ad`
+1. **Load your data** — Type: `/path/to/your/data.h5ad`
 2. **Ask a question** — e.g., "Find enriched neighborhoods around Endothelium cells"
 3. **Follow suggestions** — The agent will guide you through downstream analyses
 

@@ -46,7 +46,7 @@ Open the Chainlit UI in your browser (default: `http://localhost:8000`).
 
 ### Load data
 ```
-Load /path/to/your/data.h5ad
+/path/to/your/data.h5ad
 ```
 
 ### Run analyses via natural language
